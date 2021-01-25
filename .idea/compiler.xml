@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="1.7">
+      <module name="BeexWeb.app" target="1.8" />
+      <module name="BeexWeb.beexing_server_http_engine" target="1.8" />
+      <module name="BeexWeb.beexing_server_http_proxy" target="1.8" />
+      <module name="BeexWeb.beexing_server_proxy_http" target="1.8" />
+      <module name="BeexWeb.beexing_server_socket" target="1.8" />
+      <module name="BeexWeb.beexing_server_socket_proxy" target="1.8" />
+      <module name="BeexWeb.beexing_server_ws_engine" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

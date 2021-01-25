@@ -1,0 +1,9 @@
+include ':beexing_server_socket_proxy'
+include ':beexing_server_http_proxy'
+include ':beexing_server_socket'
+include ':beexing_server_annotation'
+include ':beexing_processor_plugin'
+include ':beexing_server_ws_engine'
+include ':beexing_server_http_engine'
+include ':app'
+rootProject.name = "BeexWeb"
