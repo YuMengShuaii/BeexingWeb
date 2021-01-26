@@ -18,5 +18,4 @@
 
 ## 组件结构图
 
-<img src="http://assets.processon.com/chart_image/600e8847e0b34d3f9b7d1dc5.png" style="zoom: 200%;" />
-
+![](http://assets.processon.com/chart_image/600e8847e0b34d3f9b7d1dc5.png)
