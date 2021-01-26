@@ -16,9 +16,14 @@
             <option value="$PROJECT_DIR$/beexing_server_annotation" />
             <option value="$PROJECT_DIR$/beexing_server_http_engine" />
             <option value="$PROJECT_DIR$/beexing_server_http_proxy" />
+            <option value="$PROJECT_DIR$/beexing_server_middleware_cache" />
+            <option value="$PROJECT_DIR$/beexing_server_middleware_handshake" />
+            <option value="$PROJECT_DIR$/beexing_server_middleware_mq" />
+            <option value="$PROJECT_DIR$/beexing_server_middleware_oss" />
             <option value="$PROJECT_DIR$/beexing_server_socket" />
             <option value="$PROJECT_DIR$/beexing_server_socket_proxy" />
             <option value="$PROJECT_DIR$/beexing_server_ws_engine" />
+            <option value="$PROJECT_DIR$/library_apache_http" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

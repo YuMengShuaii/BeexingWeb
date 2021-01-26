@@ -1,3 +1,8 @@
+include ':library_apache_http'
+include ':beexing_server_middleware_oss'
+include ':beexing_server_middleware_handshake'
+include ':beexing_server_middleware_mq'
+include ':beexing_server_middleware_cache'
 include ':beexing_server_socket_proxy'
 include ':beexing_server_http_proxy'
 include ':beexing_server_socket'

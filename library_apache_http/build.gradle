@@ -1,0 +1,32 @@
+plugins {
+    id 'java-library'
+    id 'kotlin'
+}
+
+java {
+    sourceCompatibility = JavaVersion.VERSION_1_7
+    targetCompatibility = JavaVersion.VERSION_1_7
+}
+
+dependencies {
+    /**
+     * apache Http协议簇实现
+     */
+    implementation "org.apache.httpcomponents.core5:httpcore5:5.0.3"
+    /**
+     * apache 响应式实现
+     */
+    implementation "org.apache.httpcomponents.core5:httpcore5-reactive:5.0.3"
+    /**
+     * apache Http2 协议实现
+     */
+    implementation "org.apache.httpcomponents.core5:httpcore5-h2:5.0.3"
+    /**
+     * apache 文件上传辅助类
+     */
+    implementation "commons-fileupload:commons-fileupload:1.4"
+    /**
+     * kt通用库
+     */
+    implementation "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
+}
